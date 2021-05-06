@@ -64,19 +64,24 @@
 ### O que doar
 
 - [Brinquedos](https://www.google.com/search?q=doacao+de+brinquedos+perto+de+mim)
+- [Cabelo](https://www.google.com/search?q=doacao+de+cabelo+perto+de+mim)
+- [Calçados](https://www.google.com/search?q=doacao+de+calcados+perto+de+mim)
 - [Cestas básicas](https://www.google.com/search?q=cesta+basica&tbm=shop)
 - [Eletrônicos](https://www.google.com/search?q=doacao+de+eletronicos)
 - [Equipamentos para hospitais](https://www.google.com/search?q=doacao+de+equipamentos+hospitalares+perto+de+mim)
 - [Instrumentos musicais](https://www.google.com/search?q=doacao+de+instrumentos+musicais)
 - [Itens de higiene pessoal](https://www.google.com/search?q=doacao+de+itens+de+higiene+pessoal+perto+de+mim)
 - [Leite materno](https://www.google.com/search?q=doacao+de+leite+materno+perto+de+mim)
+- [Lenços](https://www.google.com/search?q=doacao+de+lencos+perto+de+mim)
 - [Livros](https://www.google.com/search?q=doacao+de+livros+perto+de+mim)
 - [Material de construção](https://www.google.com/search?q=doacao+de+material+de+construcao)
 - [Material de limpeza](https://www.google.com/search?q=doacao+de+material+de+limpeza+perto+de+mim)
 - [Móveis](https://www.google.com/search?q=doacao+de+moveis+perto+de+mim)
+- [Peruca](https://www.google.com/search?q=doacao+de+peruca+perto+de+mim)
 - [Roupas](https://www.google.com/search?q=doacao+de+roupas+perto+de+mim)
 - [Sangue](https://www.google.com/search?q=doacao+de+sangue+perto+de+mim)
 - [Telefone celular](https://www.google.com/search?q=doacao+de+celular)
+- [Utensílios domésticos](https://www.google.com/search?q=doacao+de+utensilios+domesticos+perto+de+mim)
 
 ### Aonde doar
 
@@ -87,6 +92,7 @@
 - [Creches](https://www.google.com/search?q=creches+doacao+perto+de+mim)
 - [Doação em sinais, cruzamentos etc.](https://www.google.com/search?q=cesta+basica&tbm=shop)
 - [Fundações](https://www.google.com/search?q=fundacao+instituicao+doacao+perto+de+mim)
+- [Hortas comunitárias](https://www.google.com/search?q=horta+comunitaria+doacao+perto+de+mim)
 - [Igrejas](https://www.google.com/search?q=igrejas+doacao+perto+de+mim)
 	- [Candomblé](https://www.google.com/search?q=candomble+doacao+perto+de+mim)
 	- [Católica](https://www.google.com/search?q=igreja+catolica+doacao+perto+de+mim)
@@ -107,6 +113,7 @@
 - [Comunidades terapêuticas](https://www.google.com/search?q=comunidade+terapeutica+trabalho+voluntario+perto+de+mim)
 - [Creches](https://www.google.com/search?q=creche+trabalho+voluntario+perto+de+mim)
 - [Fundações](https://www.google.com/search?q=fundacao+instituicao+trabalho+voluntario+perto+de+mim)
+- [Hortas comunitárias](https://www.google.com/search?q=horta+comunitaria+perto+de+mim)
 - [Igrejas](https://www.google.com/search?q=igrejas+trabalho+voluntario+perto+de+mim)
 	- [Candomblé](https://www.google.com/search?q=candomble+trabalho+voluntario+perto+de+mim)
 	- [Católica](https://www.google.com/search?q=igreja+catolica+trabalho+voluntario+perto+de+mim)
