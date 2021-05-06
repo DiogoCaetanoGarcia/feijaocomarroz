@@ -1,8 +1,6 @@
 Não sabe como ajudar? Faz o feijão com arroz!
 ==============================================
 
-<style> .emoji-small-size img {font-size: 1rem;} </style>
-
 # Princípios
 
 <!--- Pra quê estar certo se você pode ajudar?-->
@@ -13,27 +11,31 @@ Não sabe como ajudar? Faz o feijão com arroz!
 
 # Como fazer
 
-{: .emoji-small-size}
-- [Divulgue](#divulgação) :loudspeaker:
+:loudspeaker: :gift: :handshake:
+
+- [Divulgue](#divulgação)
 	- Busque oportunidades para outras pessoas e apresente nas suas redes sociais.
 	- Busque necessidades de outras pessoas e apresente nas suas redes sociais.
-- [Doe](#doação) :gift:
+- [Doe](#doação)
 	- [O que doar](#o-que-doar)
 	- [Aonde doar](#aonde-doar)
 	- Desapegue do que não precisa.
 	- Se programe periodicamente: por exemplo, junte roupas para doação em intervalos regulares.
 	- Separe uma porcentagem da sua renda para doação (um dízimo de doação, por exemplo).
-- [Trabalhe](#trabalho-voluntário) :handshake:
+- [Trabalhe](#trabalho-voluntário)
 	- Escolha um trabalho que te interesse mais.
 	- Escolha um trabalho ligado à sua profissão.
 - Qualquer uma das anteriores (ou todas, se preferir).
 
 
 ## Divulgação
-- [Advogado gratuito](https://www.google.com/search?q=advogado+gratuito+perto+de+mim) :balance_scale:
-- [Cursos gratuitos](https://www.google.com/search?q=curso+gratuito+perto+de+mim) :books:
-	- [Bolsas de estudo](https://www.google.com/search?q=bolsas+de+estudo+perto+de+mim) :free:
-	- [Empreendedorismo](https://www.google.com/search?q=app+para+empreendedorismo+gratis) :chart_with_upwards_trend:
+
+:loudspeaker:
+
+- [Advogado gratuito](https://www.google.com/search?q=advogado+gratuito+perto+de+mim) <!--:balance_scale:-->
+- [Cursos gratuitos](https://www.google.com/search?q=curso+gratuito+perto+de+mim) <!-- :books: -->
+	- [Bolsas de estudo](https://www.google.com/search?q=bolsas+de+estudo+perto+de+mim) <!-- :free: -->
+	- [Empreendedorismo](https://www.google.com/search?q=app+para+empreendedorismo+gratis) <!-- :chart_with_upwards_trend: -->
 	- [Ensino profissionalizante](https://www.google.com/search?q=ensino+profissionalizante+gratuito+perto+de+mim)
 	- [Idiomas](https://www.google.com/search?q=apps+gratuitos+para+aprender+idiomas)
 	- [Instrumentos musicais](https://www.google.com/search?q=apps+gratuitos+para+aprender+instrumento+musical)
@@ -57,6 +59,8 @@ Não sabe como ajudar? Faz o feijão com arroz!
 - [Veterinário gratuito](https://www.google.com/search?q=veterinario+gratuito+perto+de+mim)
 
 ## Doação
+
+:gift:
 
 ### O que doar
 
@@ -95,6 +99,8 @@ Não sabe como ajudar? Faz o feijão com arroz!
 - [Orfanatos](https://www.google.com/search?q=orfanato+doacao+perto+de+mim)
 
 ## Trabalho voluntário
+
+:handshake:
 
 - [Abrigos](https://www.google.com/search?q=abrigo+trabalho+voluntario+perto+de+mim)
 - [Ambiental](https://www.google.com/search?q=trabalho+voluntario+ambiental+perto+de+mim)
