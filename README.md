@@ -3,10 +3,11 @@ Não sabe como ajudar? Faz o feijão com arroz!
 
 # Princípios
 
-- Pra quê estar certo se você pode ajudar?
-- Feito é melhor do que perfeito.
+<!--- Pra quê estar certo se você pode ajudar?-->
 - Dentro da ajuda, não há competição. Você faz o que pode, o outro faz o que lhe cabe.
-- A lista a seguir está sempre incompleta, e segue a ordem alfabética. **Não há preferências.**
+- Feito é melhor do que perfeito.
+- - A lista a seguir está sempre incompleta, e segue a ordem alfabética. **Não há preferências.**
+- Nenhuma organização específica é indicada aqui. Todas as sugestões são feitas pelo algoritmo do Google.
 
 # Como fazer
 
@@ -31,6 +32,7 @@ Não sabe como ajudar? Faz o feijão com arroz!
 	- [Empreendedorismo](https://www.google.com/search?q=app+para+empreendedorismo+gratis)
 	- [Ensino profissionalizante](https://www.google.com/search?q=ensino+profissionalizante+gratuito+perto+de+mim)
 	- [Idiomas](https://www.google.com/search?q=apps+gratuitos+para+aprender+idiomas)
+	- [Instrumentos musicais](https://www.google.com/search?q=apps+gratuitos+para+aprender+instrumento+musical)
 	- [Programação](https://www.google.com/search?q=apps+gratuitos+para+aprender+a+programar)
 	- [Redes sociais](https://www.google.com/search?q=curso+gratuito+redes+sociais)
 	- [Site grátis](https://www.google.com/search?q=site+gratuito)
