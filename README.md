@@ -1,7 +1,7 @@
 Não sabe como ajudar? Faz o feijão com arroz!
 ==============================================
 
-<!--<style> .emoji-small-size img {font-size: 1rem;} </style> {: .emoji-small-size}-->
+<style> .emoji-small-size img {font-size: 1rem;} </style>
 
 # Princípios
 
@@ -13,6 +13,7 @@ Não sabe como ajudar? Faz o feijão com arroz!
 
 # Como fazer
 
+{: .emoji-small-size}
 - [Divulgue](#divulgação) :loudspeaker:
 	- Busque oportunidades para outras pessoas e apresente nas suas redes sociais.
 	- Busque necessidades de outras pessoas e apresente nas suas redes sociais.
