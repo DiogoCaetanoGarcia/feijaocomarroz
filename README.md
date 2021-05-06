@@ -1,8 +1,8 @@
-# Princípios
+# Não sabe como ajudar?
 
 :loudspeaker: - :gift: - :handshake:
 
-- Não sabe como ajudar? Faz o feijão com arroz! <!--- Pra quê estar certo se você pode ajudar?-->
+- Faz o feijão com arroz! <!--- Pra quê estar certo se você pode ajudar?-->
 - Dentro da ajuda, não há competição. Você faz o que pode, o outro faz o que lhe cabe.
 - Feito é melhor do que perfeito.
 - A lista a seguir está sempre incompleta, e segue a ordem alfabética. **Não há preferências.**
