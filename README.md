@@ -26,11 +26,11 @@ Não sabe como ajudar? Faz o feijão com arroz!
 - Qualquer uma das anteriores (ou todas, se preferir).
 
 
-## Divulgação :loudspeaker:
-- [Advogado gratuito](https://www.google.com/search?q=advogado+gratuito+perto+de+mim)
-- [Cursos gratuitos](https://www.google.com/search?q=curso+gratuito+perto+de+mim)
-	- [Bolsas de estudo](https://www.google.com/search?q=bolsas+de+estudo+perto+de+mim)
-	- [Empreendedorismo](https://www.google.com/search?q=app+para+empreendedorismo+gratis)
+## Divulgação
+- [Advogado gratuito](https://www.google.com/search?q=advogado+gratuito+perto+de+mim) :balance_scale:
+- [Cursos gratuitos](https://www.google.com/search?q=curso+gratuito+perto+de+mim) :books:
+	- [Bolsas de estudo](https://www.google.com/search?q=bolsas+de+estudo+perto+de+mim) :free:
+	- [Empreendedorismo](https://www.google.com/search?q=app+para+empreendedorismo+gratis) :chart_with_upwards_trend:
 	- [Ensino profissionalizante](https://www.google.com/search?q=ensino+profissionalizante+gratuito+perto+de+mim)
 	- [Idiomas](https://www.google.com/search?q=apps+gratuitos+para+aprender+idiomas)
 	- [Instrumentos musicais](https://www.google.com/search?q=apps+gratuitos+para+aprender+instrumento+musical)
@@ -53,7 +53,7 @@ Não sabe como ajudar? Faz o feijão com arroz!
 - [Terapia alternativa gratuita](https://www.google.com/search?q=terapia+alternativa+gratuita+perto+de+mim)
 - [Veterinário gratuito](https://www.google.com/search?q=veterinario+gratuito+perto+de+mim)
 
-## Doação :gift:
+## Doação
 
 ### O que doar
 
@@ -91,7 +91,7 @@ Não sabe como ajudar? Faz o feijão com arroz!
 - [ONGs](https://www.google.com/search?q=ong+doacao+perto+de+mim)
 - [Orfanatos](https://www.google.com/search?q=orfanato+doacao+perto+de+mim)
 
-## Trabalho voluntário :handshake:
+## Trabalho voluntário
 
 - [Abrigos](https://www.google.com/search?q=abrigo+trabalho+voluntario+perto+de+mim)
 - [Ambiental](https://www.google.com/search?q=trabalho+voluntario+ambiental+perto+de+mim)
