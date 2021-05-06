@@ -1,11 +1,7 @@
 Não sabe como ajudar? Faz o feijão com arroz!
 ==============================================
 
-<style>
-.emoji-small-size img {font-size: 1rem;}
-</style>
-
-{: .emoji-small-size}
+<!--<style> .emoji-small-size img {font-size: 1rem;} </style> {: .emoji-small-size}-->
 
 # Princípios
 
