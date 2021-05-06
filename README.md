@@ -11,21 +11,22 @@ Não sabe como ajudar? Faz o feijão com arroz!
 
 # Como fazer
 
-- [Divulgue](#divulgação-:loudspeaker:)
+- Divulgue](#:loudspeaker:-divulgação)
 	- Busque oportunidades para outras pessoas e apresente nas suas redes sociais.
 	- Busque necessidades de outras pessoas e apresente nas suas redes sociais.
-- [Doe](#doação-:gift:)
+- [Doe](#:gift:doação)
 	- [O que doar](#o-que-doar)
 	- [Aonde doar](#aonde-doar)
 	- Desapegue do que não precisa.
 	- Se programe periodicamente: por exemplo, junte roupas para doação em intervalos regulares.
 	- Separe uma porcentagem da sua renda para doação (um dízimo de doação, por exemplo).
-- [Trabalhe](#trabalho-voluntário-:handshake:)
+- [Trabalhe](#:handshake:-trabalho-voluntário)
 	- Escolha um trabalho que te interesse mais.
 	- Escolha um trabalho ligado à sua profissão.
 - Qualquer uma das anteriores (ou todas, se preferir).
 
-## Divulgação :loudspeaker:
+
+## :loudspeaker: Divulgação
 - [Advogado gratuito](https://www.google.com/search?q=advogado+gratuito+perto+de+mim)
 - [Cursos gratuitos](https://www.google.com/search?q=curso+gratuito+perto+de+mim)
 	- [Bolsas de estudo](https://www.google.com/search?q=bolsas+de+estudo+perto+de+mim)
@@ -52,7 +53,7 @@ Não sabe como ajudar? Faz o feijão com arroz!
 - [Terapia alternativa gratuita](https://www.google.com/search?q=terapia+alternativa+gratuita+perto+de+mim)
 - [Veterinário gratuito](https://www.google.com/search?q=veterinario+gratuito+perto+de+mim)
 
-## Doação :gift:
+## :gift: Doação
 
 ### O que doar
 
@@ -90,7 +91,7 @@ Não sabe como ajudar? Faz o feijão com arroz!
 - [ONGs](https://www.google.com/search?q=ong+doacao+perto+de+mim)
 - [Orfanatos](https://www.google.com/search?q=orfanato+doacao+perto+de+mim)
 
-## Trabalho voluntário :handshake:
+## :handshake: Trabalho voluntário
 
 - [Abrigos](https://www.google.com/search?q=abrigo+trabalho+voluntario+perto+de+mim)
 - [Ambiental](https://www.google.com/search?q=trabalho+voluntario+ambiental+perto+de+mim)
