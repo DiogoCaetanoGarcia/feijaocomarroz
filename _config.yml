@@ -3,9 +3,9 @@ theme: jekyll-theme-slate
 #locale                   : "en-US"
 title                    : "Faz o feijão com arroz!"
 title_separator          : ""
-subtitle                 : "-" # site tagline that appears below site title in masthead
+subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "Feijão com arroz"
-description              : # "An amazing website."
+description              : "" # "An amazing website."
 url                      : "https://diogocaetanogarcia.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/feijaocomarroz" # the subpath of your site, e.g. "/blog"
 repository               : "DiogoCaetanoGarcia/feijaocomarroz" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
