@@ -117,7 +117,10 @@
 - [ONGs](https://www.google.com/search?q=ong+trabalho+voluntario+perto+de+mim)
 - [Orfanatos](https://www.google.com/search?q=orfanato+trabalho+voluntario+perto+de+mim)
 
-<!-- ## Welcome to GitHub Pages
+<!-- https://github.com/ikatyang/emoji-cheat-sheet
+
+
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/DiogoCaetanoGarcia/feijaocomarroz/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
