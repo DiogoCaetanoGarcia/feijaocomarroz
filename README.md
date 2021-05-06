@@ -1,23 +1,29 @@
-# Não sabe como ajudar? Faz o feijão com arroz!
+Não sabe como ajudar? Faz o feijão com arroz!
 
-## Princípios
+==============================================
+
+# Princípios
 
 - Pra quê estar certo se você pode ajudar?
 - Feito é melhor do que perfeito.
 - Dentro da ajuda, não há competição. Você faz o que pode, o outro faz o que lhe cabe.
 - A lista a seguir está sempre incompleta, e segue a ordem alfabética. **Não há preferências.**
 
-## Como fazer
+# Como fazer
 
-- Divulgue, doe ou trabalhe!
+- [Divulgue](#divulgação)
 	- Apresente oportunidades nas suas redes sociais.
+- [Doe](#doação)
+	- [O que doar](#o-que-doar)
+	- [Aonde doar](#aonde-doar)
 	- Desapegue do que não precisa.
 	- Se programe periodicamente: por exemplo, junte roupas para doação em intervalos regulares.
-	- Escolha um trabalho que te interesse mais, ou um trabalho ligado à sua profissão.
 	- Separe uma porcentagem da sua renda para doação (um dízimo de doação, por exemplo).
-	- Qualquer uma das anteriores (ou todas, se preferir).
+- [Trabalhe](#trabalho-voluntário)
+	- Escolha um trabalho que te interesse mais, ou um trabalho ligado à sua profissão.
+- Qualquer uma das anteriores (ou todas, se preferir).
 
-### Divulgação
+## Divulgação
 - [Advogado gratuito](https://www.google.com/search?q=advogado+gratuito+perto+de+mim)
 - [Cursos gratuitos](https://www.google.com/search?q=curso+gratuito+perto+de+mim)
 	- [Bolsas de estudo](https://www.google.com/search?q=bolsas+de+estudo+perto+de+mim)
@@ -32,9 +38,9 @@
 - [Terapia alternativa gratuita](https://www.google.com/search?q=terapia+alternativa+gratuita+perto+de+mim)
 - [Veterinário gratuito](https://www.google.com/search?q=veterinario+gratuito+perto+de+mim)
 
-### Doação
+## Doação
 
-#### O que doar
+### O que doar
 
 - [Brinquedos](https://www.google.com/search?q=doacao+de+brinquedos+perto+de+mim)
 - [Cestas básicas](https://www.google.com/search?q=cesta+basica&tbm=shop)
@@ -51,7 +57,7 @@
 - [Sangue](https://www.google.com/search?q=doacao+de+sangue+perto+de+mim)
 - [Telefone celular](https://www.google.com/search?q=doacao+de+celular)
 
-#### Aonde doar
+### Aonde doar
 
 - [Abrigos](https://www.google.com/search?q=abrigos+doacao+perto+de+mim)
 - [Adote uma família](https://www.google.com/search?q=adote+uma+familia)
@@ -70,8 +76,7 @@
 - [ONGs](https://www.google.com/search?q=ong+doacao+perto+de+mim)
 - [Orfanatos](https://www.google.com/search?q=orfanato+doacao+perto+de+mim)
 
-
-### Trabalho voluntário
+## Trabalho voluntário
 
 - [Abrigos](https://www.google.com/search?q=abrigo+trabalho+voluntario+perto+de+mim)
 - [Ambiental](https://www.google.com/search?q=trabalho+voluntario+ambiental+perto+de+mim)
