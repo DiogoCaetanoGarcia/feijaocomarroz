@@ -11,16 +11,16 @@ Não sabe como ajudar? Faz o feijão com arroz!
 
 # Como fazer
 
-- [Divulgue](#divulgação-:loudspeaker:)
+- [Divulgue](#divulgação) :loudspeaker:
 	- Busque oportunidades para outras pessoas e apresente nas suas redes sociais.
 	- Busque necessidades de outras pessoas e apresente nas suas redes sociais.
-- [Doe](#doação-:gift:)
+- [Doe](#doação) :gift:
 	- [O que doar](#o-que-doar)
 	- [Aonde doar](#aonde-doar)
 	- Desapegue do que não precisa.
 	- Se programe periodicamente: por exemplo, junte roupas para doação em intervalos regulares.
 	- Separe uma porcentagem da sua renda para doação (um dízimo de doação, por exemplo).
-- [Trabalhe](#trabalho-voluntário-:handshake:)
+- [Trabalhe](#trabalho-voluntário) :handshake:
 	- Escolha um trabalho que te interesse mais.
 	- Escolha um trabalho ligado à sua profissão.
 - Qualquer uma das anteriores (ou todas, se preferir).
