@@ -9,6 +9,8 @@
 
 ## Como fazer
 
+Divulgue, doe ou trabalhe!
+
 ### Divulgação
 - [Advogado gratuito](https://www.google.com/search?q=advogado+gratuito+perto+de+mim)
 - [Cursos gratuitos](https://www.google.com/search?q=curso+gratuito+perto+de+mim)
