@@ -1,5 +1,4 @@
 Não sabe como ajudar? Faz o feijão com arroz!
-
 ==============================================
 
 # Princípios
