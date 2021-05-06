@@ -9,7 +9,13 @@
 
 ## Como fazer
 
-Divulgue, doe ou trabalhe!
+- Divulgue, doe ou trabalhe!
+	- Apresente oportunidades nas suas redes sociais.
+	- Desapegue do que não precisa.
+	- Se programe periodicamente: por exemplo, junte roupas para doação em intervalos regulares.
+	- Escolha um trabalho que te interesse mais, ou um trabalho ligado à sua profissão.
+	- Separe uma porcentagem da sua renda para doação (um dízimo de doação, por exemplo).
+	- Qualquer uma das anteriores (ou todas, se preferir).
 
 ### Divulgação
 - [Advogado gratuito](https://www.google.com/search?q=advogado+gratuito+perto+de+mim)
