@@ -1,6 +1,10 @@
 Não sabe como ajudar? Faz o feijão com arroz!
 ==============================================
 
+<style>
+.emoji-big-size img {font-size: 1rem;}
+</style>
+
 # Princípios
 
 <!--- Pra quê estar certo se você pode ajudar?-->
