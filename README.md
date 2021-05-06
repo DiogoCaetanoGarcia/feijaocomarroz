@@ -1,6 +1,6 @@
 # Princípios
 
-:loudspeaker: | :gift: | :handshake:
+:loudspeaker: - :gift: - :handshake:
 
 - Não sabe como ajudar? Faz o feijão com arroz! <!--- Pra quê estar certo se você pode ajudar?-->
 - Dentro da ajuda, não há competição. Você faz o que pode, o outro faz o que lhe cabe.
@@ -10,7 +10,7 @@
 
 # Como fazer
 
-:loudspeaker: | :gift: | :handshake:
+:loudspeaker: - :gift: - :handshake:
 
 - [Divulgue](#divulgação)
 	- Busque oportunidades para outras pessoas e apresente nas suas redes sociais.
@@ -29,7 +29,7 @@
 
 ## Divulgação
 
-:loudspeaker: | :white_medium_square: | :white_medium_square:
+:loudspeaker: - :white_medium_square: - :white_medium_square:
 
 - [Advogado gratuito](https://www.google.com/search?q=advogado+gratuito+perto+de+mim) <!--:balance_scale:-->
 - [Cursos gratuitos](https://www.google.com/search?q=curso+gratuito+perto+de+mim) <!-- :books: -->
@@ -59,7 +59,7 @@
 
 ## Doação
 
-:white_medium_square: | :gift: | :white_medium_square:
+:white_medium_square: - :gift: - :white_medium_square:
 
 ### O que doar
 
@@ -99,7 +99,7 @@
 
 ## Trabalho voluntário
 
-:white_medium_square: | :white_medium_square: | :handshake:
+:white_medium_square: - :white_medium_square: - :handshake:
 
 - [Abrigos](https://www.google.com/search?q=abrigo+trabalho+voluntario+perto+de+mim)
 - [Ambiental](https://www.google.com/search?q=trabalho+voluntario+ambiental+perto+de+mim)
