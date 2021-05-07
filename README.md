@@ -1,3 +1,8 @@
+---
+layout: single
+classes: wide
+---
+
 # Não sabe como ajudar?
 
 :loudspeaker: - :gift: - :handshake:
