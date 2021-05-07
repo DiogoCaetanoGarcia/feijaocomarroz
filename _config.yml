@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 
-#locale                   : "en-US"
+locale                   : "pt-BR"
 title                    : "Faz o feijão com arroz!"
 title_separator          : ""
 subtitle                 : "" # site tagline that appears below site title in masthead
@@ -14,3 +14,16 @@ repository               : "DiogoCaetanoGarcia/feijaocomarroz" # GitHub username
 # masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 plugins:
   - jemoji
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
