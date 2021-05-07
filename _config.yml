@@ -12,6 +12,7 @@ repository               : "DiogoCaetanoGarcia/feijaocomarroz" # GitHub username
 # teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # logo                     : "https://github.com/DiogoCaetanoGarcia/DIVP_page/raw/main/assets/images/unb_logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 # masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+markdown: kramdown
 plugins:
   - jemoji
 
