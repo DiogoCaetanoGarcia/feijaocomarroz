@@ -12,6 +12,7 @@
 
 :loudspeaker: - :gift: - :handshake:
 
+- Clique nos links de seu interesse para buscar opções perto de você.
 - [Divulgue](#divulgação)
 	- Busque oportunidades para outras pessoas e apresente nas suas redes sociais.
 	- Busque necessidades de outras pessoas e apresente nas suas redes sociais.
@@ -31,31 +32,31 @@
 
 :loudspeaker: - :white_medium_square: - :white_medium_square:
 
-- [Advogado gratuito](https://www.google.com/search?q=advogado+gratuito+perto+de+mim) <!--:balance_scale:-->
-- [Cursos gratuitos](https://www.google.com/search?q=curso+gratuito+perto+de+mim) <!-- :books: -->
-	- [Bolsas de estudo](https://www.google.com/search?q=bolsas+de+estudo+perto+de+mim) <!-- :free: -->
-	- [Empreendedorismo](https://www.google.com/search?q=app+para+empreendedorismo+gratis) <!-- :chart_with_upwards_trend: -->
-	- [Ensino profissionalizante](https://www.google.com/search?q=ensino+profissionalizante+gratuito+perto+de+mim)
-	- [Idiomas](https://www.google.com/search?q=apps+gratuitos+para+aprender+idiomas)
-	- [Instrumentos musicais](https://www.google.com/search?q=apps+gratuitos+para+aprender+instrumento+musical)
-	- [Programação](https://www.google.com/search?q=apps+gratuitos+para+aprender+a+programar)
-	- [Redes sociais](https://www.google.com/search?q=curso+gratuito+redes+sociais)
-	- [Site grátis](https://www.google.com/search?q=site+gratuito)
-- [Esporte gratuito](https://www.google.com/search?q=esporte+gratuito+perto+de+mim)
-	- [Basquete](https://www.google.com/search?q=basquete+gratuito+perto+de+mim) 
-	- [Futebol](https://www.google.com/search?q=futebol+gratuito+perto+de+mim)
-	- [Jiu-jitsu](https://www.google.com/search?q=jiu-jitsu+gratuito+perto+de+mim)
-	- [Judô](https://www.google.com/search?q=judo+gratuito+perto+de+mim)
-	- [Karatê](https://www.google.com/search?q=karate+gratuito+perto+de+mim)
-	- [Meditação](https://www.google.com/search?q=meditacao+gratuita+perto+de+mim)
-	- [Natação](https://www.google.com/search?q=natacao+gratuita+perto+de+mim)
-	- [Tai chi chuan](https://www.google.com/search?q=tai+chi+chuan+gratuito+perto+de+mim)
-	- [Volei](https://www.google.com/search?q=volei+gratuito+perto+de+mim)
-	- [Yoga](https://www.google.com/search?q=yoga+gratuita+perto+de+mim)
-- [Médico gratuito](https://www.google.com/search?q=medico+gratuito+perto+de+mim)
-- [Psicólogo gratuito](https://www.google.com/search?q=psicologo+gratuito+perto+de+mim)
-- [Terapia alternativa gratuita](https://www.google.com/search?q=terapia+alternativa+gratuita+perto+de+mim)
-- [Veterinário gratuito](https://www.google.com/search?q=veterinario+gratuito+perto+de+mim)
+- [Advogado gratuito](https://www.google.com/search?q=advogado+gratuito+perto+de+mim){:target="_blank"} <!--:balance_scale:-->
+- [Cursos gratuitos](https://www.google.com/search?q=curso+gratuito+perto+de+mim){:target="_blank"} <!-- :books: -->
+	- [Bolsas de estudo](https://www.google.com/search?q=bolsas+de+estudo+perto+de+mim){:target="_blank"} <!-- :free: -->
+	- [Empreendedorismo](https://www.google.com/search?q=app+para+empreendedorismo+gratis){:target="_blank"} <!-- :chart_with_upwards_trend: -->
+	- [Ensino profissionalizante](https://www.google.com/search?q=ensino+profissionalizante+gratuito+perto+de+mim){:target="_blank"}
+	- [Idiomas](https://www.google.com/search?q=apps+gratuitos+para+aprender+idiomas){:target="_blank"}
+	- [Instrumentos musicais](https://www.google.com/search?q=apps+gratuitos+para+aprender+instrumento+musical){:target="_blank"}
+	- [Programação](https://www.google.com/search?q=apps+gratuitos+para+aprender+a+programar){:target="_blank"}
+	- [Redes sociais](https://www.google.com/search?q=curso+gratuito+redes+sociais){:target="_blank"}
+	- [Site grátis](https://www.google.com/search?q=site+gratuito){:target="_blank"}
+- [Esporte gratuito](https://www.google.com/search?q=esporte+gratuito+perto+de+mim){:target="_blank"}
+	- [Basquete](https://www.google.com/search?q=basquete+gratuito+perto+de+mim){:target="_blank"} 
+	- [Futebol](https://www.google.com/search?q=futebol+gratuito+perto+de+mim){:target="_blank"}
+	- [Jiu-jitsu](https://www.google.com/search?q=jiu-jitsu+gratuito+perto+de+mim){:target="_blank"}
+	- [Judô](https://www.google.com/search?q=judo+gratuito+perto+de+mim){:target="_blank"}
+	- [Karatê](https://www.google.com/search?q=karate+gratuito+perto+de+mim){:target="_blank"}
+	- [Meditação](https://www.google.com/search?q=meditacao+gratuita+perto+de+mim){:target="_blank"}
+	- [Natação](https://www.google.com/search?q=natacao+gratuita+perto+de+mim){:target="_blank"}
+	- [Tai chi chuan](https://www.google.com/search?q=tai+chi+chuan+gratuito+perto+de+mim){:target="_blank"}
+	- [Volei](https://www.google.com/search?q=volei+gratuito+perto+de+mim){:target="_blank"}
+	- [Yoga](https://www.google.com/search?q=yoga+gratuita+perto+de+mim){:target="_blank"}
+- [Médico gratuito](https://www.google.com/search?q=medico+gratuito+perto+de+mim){:target="_blank"}
+- [Psicólogo gratuito](https://www.google.com/search?q=psicologo+gratuito+perto+de+mim){:target="_blank"}
+- [Terapia alternativa gratuita](https://www.google.com/search?q=terapia+alternativa+gratuita+perto+de+mim){:target="_blank"}
+- [Veterinário gratuito](https://www.google.com/search?q=veterinario+gratuito+perto+de+mim){:target="_blank"}
 
 ## Doação
 
@@ -63,66 +64,66 @@
 
 ### O que doar
 
-- [Brinquedos](https://www.google.com/search?q=doacao+de+brinquedos+perto+de+mim)
-- [Cabelo](https://www.google.com/search?q=doacao+de+cabelo+perto+de+mim)
-- [Calçados](https://www.google.com/search?q=doacao+de+calcados+perto+de+mim)
-- [Cestas básicas](https://www.google.com/search?q=cesta+basica&tbm=shop)
-- [Eletrônicos](https://www.google.com/search?q=doacao+de+eletronicos)
-- [Equipamentos para hospitais](https://www.google.com/search?q=doacao+de+equipamentos+hospitalares+perto+de+mim)
-- [Instrumentos musicais](https://www.google.com/search?q=doacao+de+instrumentos+musicais)
-- [Itens de higiene pessoal](https://www.google.com/search?q=doacao+de+itens+de+higiene+pessoal+perto+de+mim)
-- [Leite materno](https://www.google.com/search?q=doacao+de+leite+materno+perto+de+mim)
-- [Lenços](https://www.google.com/search?q=doacao+de+lencos+perto+de+mim)
-- [Livros](https://www.google.com/search?q=doacao+de+livros+perto+de+mim)
-- [Material de construção](https://www.google.com/search?q=doacao+de+material+de+construcao)
-- [Material de limpeza](https://www.google.com/search?q=doacao+de+material+de+limpeza+perto+de+mim)
-- [Móveis](https://www.google.com/search?q=doacao+de+moveis+perto+de+mim)
-- [Peruca](https://www.google.com/search?q=doacao+de+peruca+perto+de+mim)
-- [Roupas](https://www.google.com/search?q=doacao+de+roupas+perto+de+mim)
-- [Sangue](https://www.google.com/search?q=doacao+de+sangue+perto+de+mim)
-- [Telefone celular](https://www.google.com/search?q=doacao+de+celular)
-- [Utensílios domésticos](https://www.google.com/search?q=doacao+de+utensilios+domesticos+perto+de+mim)
+- [Brinquedos](https://www.google.com/search?q=doacao+de+brinquedos+perto+de+mim){:target="_blank"}
+- [Cabelo](https://www.google.com/search?q=doacao+de+cabelo+perto+de+mim){:target="_blank"}
+- [Calçados](https://www.google.com/search?q=doacao+de+calcados+perto+de+mim){:target="_blank"}
+- [Cestas básicas](https://www.google.com/search?q=cesta+basica&tbm=shop){:target="_blank"}
+- [Eletrônicos](https://www.google.com/search?q=doacao+de+eletronicos){:target="_blank"}
+- [Equipamentos para hospitais](https://www.google.com/search?q=doacao+de+equipamentos+hospitalares+perto+de+mim){:target="_blank"}
+- [Instrumentos musicais](https://www.google.com/search?q=doacao+de+instrumentos+musicais){:target="_blank"}
+- [Itens de higiene pessoal](https://www.google.com/search?q=doacao+de+itens+de+higiene+pessoal+perto+de+mim){:target="_blank"}
+- [Leite materno](https://www.google.com/search?q=doacao+de+leite+materno+perto+de+mim){:target="_blank"}
+- [Lenços](https://www.google.com/search?q=doacao+de+lencos+perto+de+mim){:target="_blank"}
+- [Livros](https://www.google.com/search?q=doacao+de+livros+perto+de+mim){:target="_blank"}
+- [Material de construção](https://www.google.com/search?q=doacao+de+material+de+construcao){:target="_blank"}
+- [Material de limpeza](https://www.google.com/search?q=doacao+de+material+de+limpeza+perto+de+mim){:target="_blank"}
+- [Móveis](https://www.google.com/search?q=doacao+de+moveis+perto+de+mim){:target="_blank"}
+- [Peruca](https://www.google.com/search?q=doacao+de+peruca+perto+de+mim){:target="_blank"}
+- [Roupas](https://www.google.com/search?q=doacao+de+roupas+perto+de+mim){:target="_blank"}
+- [Sangue](https://www.google.com/search?q=doacao+de+sangue+perto+de+mim){:target="_blank"}
+- [Telefone celular](https://www.google.com/search?q=doacao+de+celular){:target="_blank"}
+- [Utensílios domésticos](https://www.google.com/search?q=doacao+de+utensilios+domesticos+perto+de+mim){:target="_blank"}
 
 ### Aonde doar
 
-- [Abrigos](https://www.google.com/search?q=abrigos+doacao+perto+de+mim)
-- [Adote uma família](https://www.google.com/search?q=adote+uma+familia)
-- [Asilos](https://www.google.com/search?q=asilos+doacao+perto+de+mim)
-- [Comunidades terapêuticas](https://www.google.com/search?q=comunidades+terapeuticas+doacao+perto+de+mim)
-- [Creches](https://www.google.com/search?q=creches+doacao+perto+de+mim)
-- [Doação em sinais, cruzamentos etc.](https://www.google.com/search?q=cesta+basica&tbm=shop)
-- [Fundações](https://www.google.com/search?q=fundacao+instituicao+doacao+perto+de+mim)
-- [Hortas comunitárias](https://www.google.com/search?q=horta+comunitaria+doacao+perto+de+mim)
-- [Igrejas](https://www.google.com/search?q=igrejas+doacao+perto+de+mim)
-	- [Candomblé](https://www.google.com/search?q=candomble+doacao+perto+de+mim)
-	- [Católica](https://www.google.com/search?q=igreja+catolica+doacao+perto+de+mim)
-	- [Centros espíritas](https://www.google.com/search?q=centro+espirita+doacao+perto+de+mim)
-	- [Evangélicas](https://www.google.com/search?q=igreja+evangelica+doacao+perto+de+mim)
-	- [Protestante](https://www.google.com/search?q=igreja+protestante+doacao+perto+de+mim)
-	- [Umbanda](https://www.google.com/search?q=umbanda+doacao+perto+de+mim)
-- [ONGs](https://www.google.com/search?q=ong+doacao+perto+de+mim)
-- [Orfanatos](https://www.google.com/search?q=orfanato+doacao+perto+de+mim)
+- [Abrigos](https://www.google.com/search?q=abrigos+doacao+perto+de+mim){:target="_blank"}
+- [Adote uma família](https://www.google.com/search?q=adote+uma+familia){:target="_blank"}
+- [Asilos](https://www.google.com/search?q=asilos+doacao+perto+de+mim){:target="_blank"}
+- [Comunidades terapêuticas](https://www.google.com/search?q=comunidades+terapeuticas+doacao+perto+de+mim){:target="_blank"}
+- [Creches](https://www.google.com/search?q=creches+doacao+perto+de+mim){:target="_blank"}
+- [Doação em sinais, cruzamentos etc.](https://www.google.com/search?q=cesta+basica&tbm=shop){:target="_blank"}
+- [Fundações](https://www.google.com/search?q=fundacao+instituicao+doacao+perto+de+mim){:target="_blank"}
+- [Hortas comunitárias](https://www.google.com/search?q=horta+comunitaria+doacao+perto+de+mim){:target="_blank"}
+- [Igrejas](https://www.google.com/search?q=igrejas+doacao+perto+de+mim){:target="_blank"}
+	- [Candomblé](https://www.google.com/search?q=candomble+doacao+perto+de+mim){:target="_blank"}
+	- [Católica](https://www.google.com/search?q=igreja+catolica+doacao+perto+de+mim){:target="_blank"}
+	- [Centros espíritas](https://www.google.com/search?q=centro+espirita+doacao+perto+de+mim){:target="_blank"}
+	- [Evangélicas](https://www.google.com/search?q=igreja+evangelica+doacao+perto+de+mim){:target="_blank"}
+	- [Protestante](https://www.google.com/search?q=igreja+protestante+doacao+perto+de+mim){:target="_blank"}
+	- [Umbanda](https://www.google.com/search?q=umbanda+doacao+perto+de+mim){:target="_blank"}
+- [ONGs](https://www.google.com/search?q=ong+doacao+perto+de+mim){:target="_blank"}
+- [Orfanatos](https://www.google.com/search?q=orfanato+doacao+perto+de+mim){:target="_blank"}
 
 ## Trabalho voluntário
 
 :white_medium_square: - :white_medium_square: - :handshake:
 
-- [Abrigos](https://www.google.com/search?q=abrigo+trabalho+voluntario+perto+de+mim)
-- [Ambiental](https://www.google.com/search?q=trabalho+voluntario+ambiental+perto+de+mim)
-- [Asilos](https://www.google.com/search?q=asilo+trabalho+voluntario+perto+de+mim)
-- [Comunidades terapêuticas](https://www.google.com/search?q=comunidade+terapeutica+trabalho+voluntario+perto+de+mim)
-- [Creches](https://www.google.com/search?q=creche+trabalho+voluntario+perto+de+mim)
-- [Fundações](https://www.google.com/search?q=fundacao+instituicao+trabalho+voluntario+perto+de+mim)
-- [Hortas comunitárias](https://www.google.com/search?q=horta+comunitaria+perto+de+mim)
-- [Igrejas](https://www.google.com/search?q=igrejas+trabalho+voluntario+perto+de+mim)
-	- [Candomblé](https://www.google.com/search?q=candomble+trabalho+voluntario+perto+de+mim)
-	- [Católica](https://www.google.com/search?q=igreja+catolica+trabalho+voluntario+perto+de+mim)
-	- [Centros espíritas](https://www.google.com/search?q=centro+espirita+trabalho+voluntario+perto+de+mim)
-	- [Evangélicas](https://www.google.com/search?q=igreja+evangelica+trabalho+voluntario+perto+de+mim)
-	- [Protestante](https://www.google.com/search?q=igreja+protestante+trabalho+voluntario+perto+de+mim)
-	- [Umbanda](https://www.google.com/search?q=umbanda+trabalho+voluntario+perto+de+mim)
-- [ONGs](https://www.google.com/search?q=ong+trabalho+voluntario+perto+de+mim)
-- [Orfanatos](https://www.google.com/search?q=orfanato+trabalho+voluntario+perto+de+mim)
+- [Abrigos](https://www.google.com/search?q=abrigo+trabalho+voluntario+perto+de+mim){:target="_blank"}
+- [Ambiental](https://www.google.com/search?q=trabalho+voluntario+ambiental+perto+de+mim){:target="_blank"}
+- [Asilos](https://www.google.com/search?q=asilo+trabalho+voluntario+perto+de+mim){:target="_blank"}
+- [Comunidades terapêuticas](https://www.google.com/search?q=comunidade+terapeutica+trabalho+voluntario+perto+de+mim){:target="_blank"}
+- [Creches](https://www.google.com/search?q=creche+trabalho+voluntario+perto+de+mim){:target="_blank"}
+- [Fundações](https://www.google.com/search?q=fundacao+instituicao+trabalho+voluntario+perto+de+mim){:target="_blank"}
+- [Hortas comunitárias](https://www.google.com/search?q=horta+comunitaria+perto+de+mim){:target="_blank"}
+- [Igrejas](https://www.google.com/search?q=igrejas+trabalho+voluntario+perto+de+mim){:target="_blank"}
+	- [Candomblé](https://www.google.com/search?q=candomble+trabalho+voluntario+perto+de+mim){:target="_blank"}
+	- [Católica](https://www.google.com/search?q=igreja+catolica+trabalho+voluntario+perto+de+mim){:target="_blank"}
+	- [Centros espíritas](https://www.google.com/search?q=centro+espirita+trabalho+voluntario+perto+de+mim){:target="_blank"}
+	- [Evangélicas](https://www.google.com/search?q=igreja+evangelica+trabalho+voluntario+perto+de+mim){:target="_blank"}
+	- [Protestante](https://www.google.com/search?q=igreja+protestante+trabalho+voluntario+perto+de+mim){:target="_blank"}
+	- [Umbanda](https://www.google.com/search?q=umbanda+trabalho+voluntario+perto+de+mim){:target="_blank"}
+- [ONGs](https://www.google.com/search?q=ong+trabalho+voluntario+perto+de+mim){:target="_blank"}
+- [Orfanatos](https://www.google.com/search?q=orfanato+trabalho+voluntario+perto+de+mim){:target="_blank"}
 
 <!-- https://github.com/ikatyang/emoji-cheat-sheet
 
