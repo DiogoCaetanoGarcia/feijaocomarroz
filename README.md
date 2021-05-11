@@ -25,8 +25,8 @@
 - [Trabalhe](#trabalho-voluntário)
 	- Escolha um trabalho que te interesse mais.
 	- Escolha um trabalho ligado à sua profissão.
+	- Recicle, separando coisas em casa, no prédio, no condomínio, no trabalho etc. Por exemplo, deixe caixas para coleta nesses lugares e depois dê o destino adequado.
 - Qualquer uma das anteriores (ou todas, se preferir).
-
 
 ## Divulgação
 
@@ -110,6 +110,12 @@
 
 - [Abrigos](https://www.google.com/search?q=abrigo+trabalho+voluntario+perto+de+mim){:target="_blank"}
 - [Ambiental](https://www.google.com/search?q=trabalho+voluntario+ambiental+perto+de+mim){:target="_blank"}
+	- [Reciclagem](https://www.google.com/search?q=reciclagem+perto+de+mim){:target="_blank"}
+		- [Eletrônicos](https://www.google.com/search?q=reciclagem+de+eletronicos+perto+de+mim){:target="_blank"}
+		- [Garrafas](https://www.google.com/search?q=reciclagem+de+garrafas+perto+de+mim){:target="_blank"}
+		- [Lâmpadas](https://www.google.com/search?q=reciclagem+de+lampadas+perto+de+mim){:target="_blank"}
+		- [Latas](https://www.google.com/search?q=reciclagem+de+latas+perto+de+mim){:target="_blank"}
+		- [Pilhas](https://www.google.com/search?q=reciclagem+de+pilhas+perto+de+mim){:target="_blank"}
 - [Asilos](https://www.google.com/search?q=asilo+trabalho+voluntario+perto+de+mim){:target="_blank"}
 - [Comunidades terapêuticas](https://www.google.com/search?q=comunidade+terapeutica+trabalho+voluntario+perto+de+mim){:target="_blank"}
 - [Creches](https://www.google.com/search?q=creche+trabalho+voluntario+perto+de+mim){:target="_blank"}
