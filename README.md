@@ -25,7 +25,7 @@
 - [Trabalhe](#trabalho-voluntário)
 	- Escolha um trabalho que te interesse mais.
 	- Escolha um trabalho ligado à sua profissão.
-	- [Recicle](https://www.google.com/search?q=o+que+pode+ser+reciclado), separando coisas em casa, no prédio, no condomínio, no trabalho etc. Por exemplo, deixe caixas para coleta nesses lugares e depois dê o destino adequado.
+	- [Recicle](https://www.google.com/search?q=o+que+pode+ser+reciclado){:target="_blank"}, separando coisas em casa, no prédio, no condomínio, no trabalho etc. Por exemplo, deixe caixas para coleta nesses lugares e depois dê o destino adequado.
 - Qualquer uma das anteriores (ou todas, se preferir).
 
 ## Divulgação
