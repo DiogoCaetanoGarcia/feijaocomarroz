@@ -32,6 +32,9 @@
 
 :loudspeaker: - :white_medium_square: - :white_medium_square:
 
+- [Adoção de animais](https://www.google.com/search?q=adocao+de+animais+perto+de+mim){:target="_blank"}
+	- [Adoção de cães](https://www.google.com/search?q=adocao+de+caes+perto+de+mim){:target="_blank"}
+	- [Adoção de gatos](https://www.google.com/search?q=adocao+de+gatos+perto+de+mim){:target="_blank"}
 - [Advogado gratuito](https://www.google.com/search?q=advogado+gratuito+perto+de+mim){:target="_blank"} <!--:balance_scale:-->
 - [Cursos gratuitos](https://www.google.com/search?q=curso+gratuito+perto+de+mim){:target="_blank"} <!-- :books: -->
 	- [Bolsas de estudo](https://www.google.com/search?q=bolsas+de+estudo+perto+de+mim){:target="_blank"} <!-- :free: -->
@@ -110,6 +113,10 @@
 
 - [Abrigos](https://www.google.com/search?q=abrigo+trabalho+voluntario+perto+de+mim){:target="_blank"}
 - [Ambiental](https://www.google.com/search?q=trabalho+voluntario+ambiental+perto+de+mim){:target="_blank"}
+	- [Adoção de cães](https://www.google.com/search?q=adocao+de+caes+perto+de+mim){:target="_blank"}
+	- [Adoção de gatos](https://www.google.com/search?q=adocao+de+gatos+perto+de+mim){:target="_blank"}
+	- [Conservação ambiental](https://www.google.com/search?q=conservacao+ambiental+perto+de+mim){:target="_blank"}
+	- [Hortas comunitárias](https://www.google.com/search?q=horta+comunitaria+perto+de+mim){:target="_blank"}
 	- [Reciclagem](https://www.google.com/search?q=reciclagem+perto+de+mim){:target="_blank"}
 		- [Eletrônicos](https://www.google.com/search?q=reciclagem+de+eletronicos+perto+de+mim){:target="_blank"}
 		- [Garrafas](https://www.google.com/search?q=reciclagem+de+garrafas+perto+de+mim){:target="_blank"}
@@ -120,7 +127,7 @@
 - [Comunidades terapêuticas](https://www.google.com/search?q=comunidade+terapeutica+trabalho+voluntario+perto+de+mim){:target="_blank"}
 - [Creches](https://www.google.com/search?q=creche+trabalho+voluntario+perto+de+mim){:target="_blank"}
 - [Fundações](https://www.google.com/search?q=fundacao+instituicao+trabalho+voluntario+perto+de+mim){:target="_blank"}
-- [Hortas comunitárias](https://www.google.com/search?q=horta+comunitaria+perto+de+mim){:target="_blank"}
+- [Hospitais](https://www.google.com/search?q=hospital+trabalho+voluntario+perto+de+mim){:target="_blank"}
 - [Igrejas](https://www.google.com/search?q=igrejas+trabalho+voluntario+perto+de+mim){:target="_blank"}
 	- [Candomblé](https://www.google.com/search?q=candomble+trabalho+voluntario+perto+de+mim){:target="_blank"}
 	- [Católica](https://www.google.com/search?q=igreja+catolica+trabalho+voluntario+perto+de+mim){:target="_blank"}
