@@ -124,6 +124,7 @@
 		- [Latas](https://www.google.com/search?q=reciclagem+de+latas+perto+de+mim){:target="_blank"}
 		- [Pilhas](https://www.google.com/search?q=reciclagem+de+pilhas+perto+de+mim){:target="_blank"}
 - [Asilos](https://www.google.com/search?q=asilo+trabalho+voluntario+perto+de+mim){:target="_blank"}
+- [Auxílio a moradores de rua](https://www.google.com/search?q=trabalho+voluntario+moradores+de+rua+perto+de+mim){:target="_blank"}
 - [Comunidades terapêuticas](https://www.google.com/search?q=comunidade+terapeutica+trabalho+voluntario+perto+de+mim){:target="_blank"}
 - [Creches](https://www.google.com/search?q=creche+trabalho+voluntario+perto+de+mim){:target="_blank"}
 - [Escrita de cartas solidárias para asilos, creches, hospitais etc.](https://www.google.com/search?q=cartas+solidarias+perto+de+mim){:target="_blank"}
