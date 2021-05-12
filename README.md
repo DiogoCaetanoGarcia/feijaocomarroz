@@ -126,6 +126,7 @@
 - [Asilos](https://www.google.com/search?q=asilo+trabalho+voluntario+perto+de+mim){:target="_blank"}
 - [Comunidades terapêuticas](https://www.google.com/search?q=comunidade+terapeutica+trabalho+voluntario+perto+de+mim){:target="_blank"}
 - [Creches](https://www.google.com/search?q=creche+trabalho+voluntario+perto+de+mim){:target="_blank"}
+- [Escrita de cartas solidárias para asilos, creches, hospitais etc.](https://www.google.com/search?q=cartas+solidarias+perto+de+mim){:target="_blank"}
 - [Fundações](https://www.google.com/search?q=fundacao+instituicao+trabalho+voluntario+perto+de+mim){:target="_blank"}
 - [Hospitais](https://www.google.com/search?q=hospital+trabalho+voluntario+perto+de+mim){:target="_blank"}
 - [Igrejas](https://www.google.com/search?q=igrejas+trabalho+voluntario+perto+de+mim){:target="_blank"}
