@@ -139,6 +139,7 @@
 	- [Umbanda](https://www.google.com/search?q=umbanda+trabalho+voluntario+perto+de+mim){:target="_blank"}
 - [ONGs](https://www.google.com/search?q=ong+trabalho+voluntario+perto+de+mim){:target="_blank"}
 - [Orfanatos](https://www.google.com/search?q=orfanato+trabalho+voluntario+perto+de+mim){:target="_blank"}
+- [Programação de código aberto](https://www.google.com/search?q=projetos+programacao+open+source){:target="_blank"}
 
 <!-- https://github.com/ikatyang/emoji-cheat-sheet
 
