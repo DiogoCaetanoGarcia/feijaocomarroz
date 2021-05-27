@@ -119,6 +119,7 @@
 	- [Conservação ambiental](https://www.google.com/search?q=conservacao+ambiental+perto+de+mim){:target="_blank"}
 	- [Hortas comunitárias](https://www.google.com/search?q=horta+comunitaria+perto+de+mim){:target="_blank"}
 	- [Reciclagem](https://www.google.com/search?q=reciclagem+perto+de+mim){:target="_blank"}
+		- [Aonde descartar](https://www.ecycle.com.br/postos/reciclagem.php){:target="_blank"}
 		- [Eletrônicos](https://www.google.com/search?q=reciclagem+de+eletronicos+perto+de+mim){:target="_blank"}
 		- [Garrafas](https://www.google.com/search?q=reciclagem+de+garrafas+perto+de+mim){:target="_blank"}
 		- [Lâmpadas](https://www.google.com/search?q=reciclagem+de+lampadas+perto+de+mim){:target="_blank"}
