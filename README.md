@@ -1,4 +1,6 @@
-# Não sabe como ajudar? :loudspeaker: :gift: :handshake:
+# Não sabe como ajudar? 
+
+:loudspeaker: :gift: :handshake:
 
 - Faz o feijão com arroz! <!--- Pra quê estar certo se você pode ajudar?-->
 - Dentro da ajuda, não há competição. Você faz o que pode, o outro faz o que lhe cabe.
@@ -6,7 +8,9 @@
 - A lista a seguir está sempre incompleta, e segue a ordem alfabética. **Não há preferências.**
 - Nenhuma organização específica é indicada aqui. Todas as sugestões são feitas pelo algoritmo do Google.
 
-# Como fazer :loudspeaker: :gift: :handshake:
+# Como fazer 
+
+:loudspeaker: :gift: :handshake:
 
 - Clique nos links de seu interesse para buscar opções perto de você.
 - [Divulgue](#divulgação)
@@ -25,7 +29,9 @@
 - [Divulgue essa página](/assets/pdfs/Iniciativa_fazofeijaocomarroz.pdf){:target="_blank"}
 - Qualquer uma das anteriores (ou todas, se preferir).
 
-## Divulgação :loudspeaker: :white_medium_square: :white_medium_square:
+## Divulgação 
+
+:loudspeaker: :white_medium_square: :white_medium_square:
 
 - [Adoção de animais](https://www.google.com/search?q=adocao+de+animais+perto+de+mim){:target="_blank"}
 	- [Adoção de cães](https://www.google.com/search?q=adocao+de+caes+perto+de+mim){:target="_blank"}
@@ -56,7 +62,9 @@
 - [Terapia alternativa gratuita](https://www.google.com/search?q=terapia+alternativa+gratuita+perto+de+mim){:target="_blank"}
 - [Veterinário gratuito](https://www.google.com/search?q=veterinario+gratuito+perto+de+mim){:target="_blank"}
 
-## Doação :white_medium_square: :gift: :white_medium_square:
+## Doação 
+
+:white_medium_square: :gift: :white_medium_square:
 
 ### O que doar
 
@@ -100,7 +108,9 @@
 - [ONGs](https://www.google.com/search?q=ong+doacao+perto+de+mim){:target="_blank"}
 - [Orfanatos](https://www.google.com/search?q=orfanato+doacao+perto+de+mim){:target="_blank"}
 
-## Trabalho voluntário :white_medium_square: :white_medium_square: :handshake:
+## Trabalho voluntário 
+
+:white_medium_square: :white_medium_square: :handshake:
 
 - [Abrigos](https://www.google.com/search?q=abrigo+trabalho+voluntario+perto+de+mim){:target="_blank"}
 - [Ambiental](https://www.google.com/search?q=trabalho+voluntario+ambiental+perto+de+mim){:target="_blank"}
