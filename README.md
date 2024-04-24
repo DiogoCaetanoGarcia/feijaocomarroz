@@ -18,7 +18,7 @@
 	- Busque necessidades de outras pessoas e apresente nas suas redes sociais.
 - [Doe](#doação)
 	- [O que doar](#o-que-doar)
-	- [Aonde doar](#aonde-doar)
+	- [Onde doar](#onde-doar)
 	- Desapegue do que não precisa.
 	- Se programe periodicamente: por exemplo, junte roupas para doação em intervalos regulares.
 	- Separe uma porcentagem da sua renda para doação (um dízimo de doação, por exemplo).
@@ -88,7 +88,7 @@
 - [Telefone celular](https://www.google.com/search?q=doacao+de+celular){:target="_blank"}
 - [Utensílios domésticos](https://www.google.com/search?q=doacao+de+utensilios+domesticos+perto+de+mim){:target="_blank"}
 
-### Aonde doar
+### Onde doar
 
 - [Abrigos](https://www.google.com/search?q=abrigos+doacao+perto+de+mim){:target="_blank"}
 - [Adote uma família](https://www.google.com/search?q=adote+uma+familia){:target="_blank"}
