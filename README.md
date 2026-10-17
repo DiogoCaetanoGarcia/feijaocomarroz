@@ -1,8 +1,8 @@
-# :loudspeaker: :gift: :handshake: Não sabe como ajudar? 
+# 📢 🎁 🤝 Não sabe como ajudar? 
 
 Muita gente quer ajudar e não começa porque não sabe por onde. Aqui está o pontapé inicial: escolha uma categoria, clique, e o Google mostra as opções mais perto de você.
 
-- Os temas vão do mais simples ao mais exigente: :loudspeaker: [divulgar](#divulgacao), :gift: [doar](#doacao) e :handshake: [ser voluntário](#trabalho-voluntario).
+- Os temas vão do mais simples ao mais exigente: 📢 [divulgar](#divulgacao), 🎁 [doar](#doacao) e 🤝 [ser voluntário](#trabalho-voluntario).
 - Faz o feijão com arroz! Ajudar não precisa ser perfeito, nem grande.
 - Feito é melhor do que perfeito.
 - Dentro da ajuda, não há competição: você faz o que pode, o outro faz o que lhe cabe.
@@ -17,26 +17,26 @@ Muita gente quer ajudar e não começa porque não sabe por onde. Aqui está o p
 - A lista a seguir está sempre incompleta, e segue a ordem alfabética. **Não há preferências.**
 - Nenhuma organização específica é indicada aqui. Todas as sugestões são feitas pelo algoritmo do Google. -->
 
-## :loudspeaker: :gift: :handshake: Como fazer 
+## 📢 🎁 🤝 Como fazer 
 
 - Clique nos links abaixo para buscar opções perto de você.
-- :loudspeaker: [Divulgue](#divulgação)
+- 📢 [Divulgue](#divulgacao)
 	- Busque oportunidades para outras pessoas e apresente nas suas redes sociais.
 	- Busque necessidades de outras pessoas e apresente nas suas redes sociais.
 	- [Divulgue essa página](/assets/pdfs/Iniciativa_fazofeijaocomarroz.pdf){:target="_blank"}
-- :gift: [Doe](#doação)
+- 🎁 [Doe](#doacao)
 	- [O que doar](#o-que-doar)
 	- [Onde doar](#onde-doar)
 	- Desapegue do que não precisa.
 	- Se programe periodicamente: por exemplo, junte roupas para doação em intervalos regulares.
 	- Separe uma porcentagem da sua renda para doação (um dízimo de doação, por exemplo).
-- :handshake: [Trabalhe](#trabalho-voluntário)
+- 🤝 [Trabalhe](#trabalho-voluntario)
 	- Escolha um trabalho que te interesse mais.
 	- Escolha um trabalho ligado à sua profissão.
 	- [Recicle](https://www.google.com/search?q=o+que+pode+ser+reciclado){:target="_blank"}, separando coisas em casa, no prédio, no condomínio, no trabalho etc. Por exemplo, deixe caixas para coleta nesses lugares e depois dê o destino adequado.
 - Qualquer uma das anteriores (ou todas, se preferir).
 
-## :loudspeaker: :white_medium_square: :white_medium_square: Divulgação
+## 📢 ⬜ ⬜ Divulgação
 {: #divulgacao}
 
 - [Adoção de animais](https://www.google.com/search?q=adocao+de+animais+perto+de+mim){:target="_blank"}
@@ -68,7 +68,7 @@ Muita gente quer ajudar e não começa porque não sabe por onde. Aqui está o p
 - [Terapia alternativa gratuita](https://www.google.com/search?q=terapia+alternativa+gratuita+perto+de+mim){:target="_blank"}
 - [Veterinário gratuito](https://www.google.com/search?q=veterinario+gratuito+perto+de+mim){:target="_blank"}
 
-## :white_medium_square: :gift: :white_medium_square: Doação 
+## ⬜ 🎁 ⬜ Doação 
 {: #doacao}
 ### Antes de doar
 
@@ -122,7 +122,7 @@ Uma conferida rápida:
 - [ONGs](https://www.google.com/search?q=ong+doacao+perto+de+mim){:target="_blank"}
 - [Orfanatos](https://www.google.com/search?q=orfanato+doacao+perto+de+mim){:target="_blank"}
 
-## :white_medium_square: :white_medium_square: :handshake: Trabalho voluntário 
+## ⬜ ⬜ 🤝 Trabalho voluntário 
 {: #trabalho-voluntario}
 
 - [Abrigos](https://www.google.com/search?q=abrigo+trabalho+voluntario+perto+de+mim){:target="_blank"}
