@@ -1,4 +1,4 @@
-theme: jekyll-theme-tactile # jekyll-theme-slate
+theme: jekyll-theme-slate # jekyll-theme-tactile
 
 locale                   : "pt-BR"
 title                    : "Faz o feijão com arroz!"
