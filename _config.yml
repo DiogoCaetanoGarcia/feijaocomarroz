@@ -1,11 +1,11 @@
 theme: jekyll-theme-slate
 
 locale                   : "pt-BR"
-title                    : "Faz o feijão com arroz!"
+title                    : "Como ajudar: por onde começar | Faz o feijão com arroz!"
 title_separator          : ""
 subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "Feijão com arroz"
-description              : "" # "An amazing website."
+description              : "Quer ajudar, mas não sabe por onde começar? Atalhos para encontrar onde doar, o que divulgar e como ser voluntário perto de você." # "An amazing website."
 url                      : "https://www.fazofeijaocomarroz.com.br" # "https://diogocaetanogarcia.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # "/feijaocomarroz" # the subpath of your site, e.g. "/blog"
 repository               : "DiogoCaetanoGarcia/feijaocomarroz" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
